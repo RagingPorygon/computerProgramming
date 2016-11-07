@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>SlotMachine</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>SlotMachine</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>SlotMachine.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>PlaySlots.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>PlaySlots.java.sdk</path>
+			<symbols>
+				<symbol>PlaySlots</symbol>
+				<symbol>SlotMachine</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>SlotMachine.java.sdk</path>
+			<symbols>
+				<symbol>SlotMachine</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Assignment</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Assignment</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Assignment.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>AssignmentTest.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>AssignmentTest.java.sdk</path>
+			<symbols>
+				<symbol>Assignment</symbol>
+				<symbol>AssignmentTest</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>Assignment.java.sdk</path>
+			<symbols>
+				<symbol>Assignment</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

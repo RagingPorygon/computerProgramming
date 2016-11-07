@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Compass</label>
+	</settings>
+	<users>
+		<user>
+			<path>Compass.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Compass.jcp</path>
+		</project>
+	</projects>
+</workspace>

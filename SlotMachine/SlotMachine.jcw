@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SlotMachine</label>
+		<id>65</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>SlotMachine.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SlotMachine.jcp</path>
+		</project>
+	</projects>
+</workspace>

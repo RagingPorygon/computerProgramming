@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Favorites</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Favorites</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<symboltables>
+		<symboltable>
+			<path>FavoritesTest.java.sdk</path>
+			<symbols>
+				<symbol>Favorites</symbol>
+				<symbol>FavoritesTest</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>Favorites.java.sdk</path>
+			<symbols>
+				<symbol>Favorites</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

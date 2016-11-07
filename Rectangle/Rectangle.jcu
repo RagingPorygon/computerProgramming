@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Rectangle</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Rectangle</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Rectangle.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>RectangleTest.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>RectangleTest.java.sdk</path>
+			<symbols>
+				<symbol>Rectangle</symbol>
+				<symbol>RectangleTest</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>Rectangle.java.sdk</path>
+			<symbols>
+				<symbol>Rectangle</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
